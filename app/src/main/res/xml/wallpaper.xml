@@ -1,0 +1,4 @@
+<wallpaper xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/wallpaper_desc"
+    android:thumbnail="@drawable/napjaki_icon"
+    android:settingsActivity="kr.napjaki.wallpaper.MainActivity"/>
